@@ -1,4 +1,4 @@
-### 📄 `qr_generator/README.md`（二维码模块说明）
+### 📄 'qr_generator/README.md'
 
 ```markdown
 # QR Code Generator 📱
